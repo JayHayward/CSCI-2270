@@ -1,0 +1,3 @@
+a, wanted, 10
+b, wanted, 10
+a, for sale, 10
